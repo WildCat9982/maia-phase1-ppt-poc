@@ -1,0 +1,6 @@
+.env
+.venv/
+.pydeps/
+__pycache__/
+.pytest_cache/
+*_LARGE.pptx
